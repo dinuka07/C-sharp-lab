@@ -1,0 +1,30 @@
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.csproj.AssemblyReference.cache
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.AssemblyInfoInputs.cache
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.AssemblyInfo.cs
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.csproj.CoreCompileInputs.cache
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.exe
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.deps.json
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.runtimeconfig.json
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.dll
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.pdb
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.dll
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\refint\Lab sheet 01 - Qusetion 03.dll
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.pdb
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.genruntimeconfig.cache
+D:\lab sheet C# assignment\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\ref\Lab sheet 01 - Qusetion 03.dll
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.exe
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.deps.json
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.runtimeconfig.json
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.dll
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\bin\Debug\net6.0\Lab sheet 01 - Qusetion 03.pdb
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.csproj.AssemblyReference.cache
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.AssemblyInfoInputs.cache
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.AssemblyInfo.cs
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.csproj.CoreCompileInputs.cache
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.dll
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\refint\Lab sheet 01 - Qusetion 03.dll
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.pdb
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\Lab sheet 01 - Qusetion 03.genruntimeconfig.cache
+C:\Users\Dinuka Nanayakkara\Desktop\lab sheet C# assignment\Lab sheet 01\Lab sheet 01 - Qusetion 03\Lab sheet 01 - Qusetion 03\obj\Debug\net6.0\ref\Lab sheet 01 - Qusetion 03.dll

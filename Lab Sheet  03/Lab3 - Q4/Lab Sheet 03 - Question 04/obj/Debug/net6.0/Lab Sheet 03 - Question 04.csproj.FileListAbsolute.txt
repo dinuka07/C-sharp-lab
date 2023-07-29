@@ -1,0 +1,15 @@
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\bin\Debug\net6.0\Lab Sheet 03 - Question 04.exe
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\bin\Debug\net6.0\Lab Sheet 03 - Question 04.deps.json
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\bin\Debug\net6.0\Lab Sheet 03 - Question 04.runtimeconfig.json
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\bin\Debug\net6.0\Lab Sheet 03 - Question 04.dll
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\bin\Debug\net6.0\Lab Sheet 03 - Question 04.pdb
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.csproj.AssemblyReference.cache
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.AssemblyInfoInputs.cache
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.AssemblyInfo.cs
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.csproj.CoreCompileInputs.cache
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.dll
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\refint\Lab Sheet 03 - Question 04.dll
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.pdb
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\Lab Sheet 03 - Question 04.genruntimeconfig.cache
+D:\lab sheet C# assignment\Lab Sheet 03 - Question 04\Lab Sheet 03 - Question 04\obj\Debug\net6.0\ref\Lab Sheet 03 - Question 04.dll

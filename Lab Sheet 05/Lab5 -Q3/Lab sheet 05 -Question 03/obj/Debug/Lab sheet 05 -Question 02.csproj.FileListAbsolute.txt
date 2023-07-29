@@ -1,0 +1,8 @@
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\bin\Debug\Lab sheet 05 -Question 02.exe.config
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\bin\Debug\Lab sheet 05 -Question 02.exe
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\bin\Debug\Lab sheet 05 -Question 02.pdb
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\obj\Debug\Lab sheet 05 -Question 02.csproj.AssemblyReference.cache
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\obj\Debug\Lab sheet 05 -Question 02.csproj.SuggestedBindingRedirects.cache
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\obj\Debug\Lab sheet 05 -Question 02.csproj.CoreCompileInputs.cache
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\obj\Debug\Lab sheet 05 -Question 02.exe
+D:\lab sheet C# assignment\Lab sheet 05 -Question 02\Lab sheet 05 -Question 02\obj\Debug\Lab sheet 05 -Question 02.pdb

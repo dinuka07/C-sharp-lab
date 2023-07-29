@@ -1,0 +1,15 @@
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\bin\Debug\net6.0\Lab sheet 02 - Qusetion 04.exe
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\bin\Debug\net6.0\Lab sheet 02 - Qusetion 04.deps.json
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\bin\Debug\net6.0\Lab sheet 02 - Qusetion 04.runtimeconfig.json
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\bin\Debug\net6.0\Lab sheet 02 - Qusetion 04.dll
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\bin\Debug\net6.0\Lab sheet 02 - Qusetion 04.pdb
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.csproj.AssemblyReference.cache
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.AssemblyInfoInputs.cache
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.AssemblyInfo.cs
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.csproj.CoreCompileInputs.cache
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.dll
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\refint\Lab sheet 02 - Qusetion 04.dll
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.pdb
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\Lab sheet 02 - Qusetion 04.genruntimeconfig.cache
+D:\lab sheet C# assignment\Lab sheet 02 - Qusetion 04\Lab sheet 02 - Qusetion 04\obj\Debug\net6.0\ref\Lab sheet 02 - Qusetion 04.dll
